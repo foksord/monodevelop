@@ -13,7 +13,7 @@
   "enableProposedApi": true,
   "dependencies": {
     "semver": "4.3.6",
-    "vscode-extension-telemetry": "^0.0.7",
+    "vscode-extension-telemetry": "^0.1.7",
     "vscode-nls": "^2.0.1"
   },
   "devDependencies": {
